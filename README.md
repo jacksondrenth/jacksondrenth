@@ -5,4 +5,4 @@ I am Jackson Drenth, a current Sophomore graduating in 3 years, May 2025 at Crei
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) = www.linkedin.com/in/jacksondrenth
 
-(https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) = Jacksondrenth@creighton.edu
+![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) = Jacksondrenth@creighton.edu
