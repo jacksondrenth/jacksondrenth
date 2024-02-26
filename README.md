@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Jackson Drenth
 
-I am Jackson Drenth, a current Sophomore graduating in 3 years, May 2025 at Creighton University as a FinTech and BIA: IT Track Major. I'm currently in the process of bettering myself and starting projects that will both push what I learn and show my skills. I am currently working on learning TensorFlow and using that create better ML algorithms for fun side projects.
+📖 Current Sophomore at Creighton University, I am graduating in 3 years, May 2025 with a BSBA in FinTech & BIA: IT Track
+💼 Intern at Milli Bank creating data driven insights to increase the user experience
+🔍 Looking for internships that will challenge my abilites, open to relocation
+📝 Learning Machine Learning in TensorFlow & PyTorch and AI integration & Prompt Engineering
+
+
+
+
+
 
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) = www.linkedin.com/in/jacksondrenth
