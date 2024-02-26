@@ -31,22 +31,16 @@
     <tr>
         <td>Mark Up / FrontEnd</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" width="40" height="40"/></a>    
         </td>
     </tr>
     <tr>
         <td>Databases/Datastores</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/neo4j/neo4j-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -55,68 +49,17 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/640px-Android_Studio_icon_%282023%29.svg.png" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
-        <td>Testing</td>
+        <td>Statistical Services</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a>
-            <a href=""><img src=""/></a> -->
-        </td>
-    </tr>
-    <tr>
-        <td>Others/Misc</td>
-        <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a> -->
+            <a href=""><img src="https://i.pinimg.com/originals/73/96/b8/7396b8543078228985df506d122df2e7.png" width="40" height="40"/></a>
+            <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" width="40" height="40"/></a>
+            <a href=""><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
 
-
 <br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-<br />
-
-### My GitHub Stats
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
-
-
-
-
-![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white) = www.linkedin.com/in/jacksondrenth
-
-![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white) = Jacksondrenth@creighton.edu
