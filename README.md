@@ -5,6 +5,7 @@
 - 🔍 Looking for internships that will challenge my abilites, open to relocation
 - 📝 Learning Machine Learning in TensorFlow & PyTorch and AI integration & Prompt Engineering
 <br/>
+
 ### Contact me:
 
 <a href="www.linkedin.com/in/jacksondrenth"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
