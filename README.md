@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jackson Drenth
 
 - 📖 Current Sophomore at Creighton University, I am graduating in 3 years, May 2025 with a BSBA in FinTech & BIA: IT Track
-- 💼 Intern at Milli Bank creating data driven insights to increase the user experience
+- 💼 Intern at Milli Bank creating data driven insights to better the user experience
 - 🔍 Looking for internships that will challenge my abilites, open to relocation
 - 📝 Learning Machine Learning in TensorFlow & PyTorch and AI integration & Prompt Engineering
 ### Contact me:
