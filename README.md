@@ -6,7 +6,7 @@
 - 📝 Learning Machine Learning in TensorFlow & PyTorch and AI integration & Prompt Engineering
 ### Contact me:
 
-<a href="www.linkedin.com/in/jacksondrenth"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="www.linkedin.com/in/jacksondrenth"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/> = www.linkedin.com/in/jacksondrenth</a>
 <a href="(https://www.instagram.com/jackson.drenth/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"/></a>
 
 ### Toolset
