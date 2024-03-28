@@ -7,7 +7,7 @@
 ### Contact me:
 
 <a href="www.linkedin.com/in/jacksondrenth"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/> = www.linkedin.com/in/jacksondrenth</a>
-<a href="(https://www.instagram.com/jackson.drenth/)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/2203px-Microsoft_Office_Outlook_%282018–present%29.svg.png" width="40" height="40"/> = JacksonDrenth@creighton.edu</a>
+<a href="(www.creighton.edu)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/2203px-Microsoft_Office_Outlook_%282018–present%29.svg.png" width="40" height="40"/> = JacksonDrenth@creighton.edu</a>
 
 ### Toolset
 
