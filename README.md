@@ -12,12 +12,12 @@
 ### Toolset
 
 <table>
-    <tr>
+<!--     <tr>
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="40" height="40"/></a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>Programming</td>
         <td>
