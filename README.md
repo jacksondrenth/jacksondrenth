@@ -26,7 +26,7 @@
         </td>
     </tr>
     <tr>
-        <td>FrontEnd</td>
+        <td>Frontend</td>
         <td>
             <!-- <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" width="40" height="40"/></a>
