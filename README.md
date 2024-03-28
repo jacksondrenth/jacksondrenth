@@ -26,8 +26,8 @@
         </td>
     </tr>
     <tr>
-        <td>
         <td>Backend</td>
+        <td>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" width="40" height="40"/></a> 
         </td>
     </tr>
