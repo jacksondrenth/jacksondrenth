@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Jackson Drenth
 
-- 📖 Current Sophomore at Creighton University, I am graduating in 3 years, May 2025 with a BSBA in FinTech & BIA: IT Track
-- 💼 Intern at Milli Bank creating data driven insights to better the user experience
-- 🔍 Looking for internships that will challenge my abilites and push me to learn more, open to relocation
-- 📝 Learning Machine Learning in TensorFlow & PyTorch and AI integration & Prompt Engineering
+- 📖 Sophomore at Creighton University, graduating in May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated program)
+- 💼 Intern at Milli Bank, leveraging data-driven insights to enhance user experience
+- 🔍 Seeking challenging internships to expand my skills and knowledge, open to relocation
+- 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and Prompt Engineering
 ### Contact me:
 
-<a href="www.linkedin.com/in/jacksondrenth"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/> = www.linkedin.com/in/jacksondrenth</a>
-<a href="(www.creighton.edu)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/2203px-Microsoft_Office_Outlook_%282018–present%29.svg.png" width="40" height="40"/> = JacksonDrenth@creighton.edu</a>
+<a href="https://www.linkedin.com/in/jacksondrenth" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="mailto:JacksonDrenth@creighton.edu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018–present%29.svg/2203px-Microsoft_Office_Outlook_%282018–present%29.svg.png" alt="Email" width="40" height="40"/></a>
 
 ### Toolset
 
@@ -26,7 +26,7 @@
         </td>
     </tr>
     <tr>
-        <td>Frontend</td>
+        <td>Web Development</td>
         <td>
             <!-- <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/640px-Devicon-html5-plain.svg.png" width="40" height="40"/></a>
@@ -46,7 +46,7 @@
         </td>
     </tr>
     <tr>
-        <td>IDEs</td>
+        <td>IDEs & Tools</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
@@ -55,7 +55,7 @@
         </td>
     </tr>
     <tr>
-        <td>Statistical Services</td>
+        <td>Analytics & BI</td>
         <td>
             <a href=""><img src="https://i.pinimg.com/originals/73/96/b8/7396b8543078228985df506d122df2e7.png" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/640px-New_Power_BI_Logo.svg.png" width="40" height="40"/></a>
