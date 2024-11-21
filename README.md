@@ -1,12 +1,21 @@
 ### Hi there 👋, I'm Jackson Drenth
 
-- 📖 Sophomore at Creighton University, graduating in May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
+- 📖 Senior at Creighton University, graduating in May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
 - 💼 Software Engineer Intern at SAIC
 - 🔍 Seeking challenging internships to expand my skills and knowledge, open to relocation
-- 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and Prompt Engineering
+- 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and and data oriented programing
 
-  <h1>Work Experience:</h1>
-  Intern at Milli Bank, leveraging data-driven insights to enhance user experience
+  <h1>Work Experience:</h1> 
+  Software Engineer at SAIC                           May 2024 - Present
+  •	Developed an immutable database in SQLite to capture errors, changes, and more to increase operational efficiency.
+  •	Researched and debated over different forms of databases to understand and meet the project's needs.
+  •	Developing a website in Flask that follows proper procedures to view and insert data in the database.
+
+  Intern at Milli Bank                                 Jan 2024 - May 2024
+  •	Understood and organized customer trends and feedback that was occurring
+  •	Worked with product and research teams to find solutions to customer problems and feedback
+  •	Created better customer experience using customer data and needs
+
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/jacksondrenth" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
