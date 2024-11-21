@@ -17,7 +17,7 @@
 
   Intern at Milli Bank                  ---               <b>Jan 2024 - May 2024</b>
   <br>
-  •	Understood and organized customer trends and feedback that was occurring
+  •	Broke down and organized customer trends and feedback that was occurring
   <br>
   •	Worked with product and research teams to find solutions to customer problems and feedback
   <br>
