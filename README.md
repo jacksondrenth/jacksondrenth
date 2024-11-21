@@ -2,7 +2,7 @@
 
 - 📖 Senior at Creighton University, graduating in May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
 - 💼 Software Engineer Intern at SAIC
-- 🔍 Seeking challenging internships to expand my skills and knowledge, open to relocation
+- 🔍 Focused on growth, enjoying the agile environment focused on employee development
 - 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and and data oriented programing
 
   <h1>Work Experience:</h1> 
