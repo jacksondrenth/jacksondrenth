@@ -6,7 +6,7 @@
 - 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and and data oriented programing
 
   <h1>Work Experience:</h1> 
-  Software Engineer at SAIC                          <b>May 2024 - Present</b>
+  Software Engineer at SAIC            ---              <b>May 2024 - Present</b>
   <br>
   •	Developed an immutable database in SQLite to capture errors, changes, and more to increase operational efficiency.
   <br>
@@ -15,7 +15,7 @@
   •	Developing a website in Flask that follows proper procedures to view and insert data in the database.
   <br>
 
-  Intern at Milli Bank                                 <b>Jan 2024 - May 2024</b>
+  Intern at Milli Bank                  ---               <b>Jan 2024 - May 2024</b>
   <br>
   •	Understood and organized customer trends and feedback that was occurring
   <br>
