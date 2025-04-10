@@ -65,6 +65,7 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
           <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/></a>
+          <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
