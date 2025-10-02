@@ -1,12 +1,22 @@
 ### Hi there 👋, I'm Jackson Drenth
 
-- 📖 Senior at Creighton University, graduating in May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
-- 💼 Software Engineer Intern at SAIC
-- 🔍 Focused on growth, enjoying the agile environment focused on employee development
-- 📝 Currently learning Machine Learning (TensorFlow & PyTorch), AI integration, and and data oriented programing
+- 📖 Creighton University Graduate, May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
+- 💼 DevSecOps Engineer Associate at SAIC, TADS
+- 🔍 Developing pipelines and cloud integration in an agine evnvironment
+- 📝 Currently learning Machine Learning, Quantum omputing, and and data oriented programing
 
   <h1>Work Experience:</h1> 
-  Software Engineer at SAIC            ---              <b>May 2024 - Present</b>
+
+  DevSecOps Engineer Associate at SAIC            ---              <b>July 2025 - Present</b>
+  <br>
+  •	
+  <br>
+  •	
+  <br>
+  •	
+  <br>
+
+  Software Engineer Intern at SAIC            ---              <b>May 2024 - May 2025</b>
   <br>
   •	Developed an immutable database in SQLite to capture errors, changes, and more to increase operational efficiency.
   <br>
