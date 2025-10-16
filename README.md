@@ -85,6 +85,7 @@
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/640px-Android_Studio_icon_%282023%29.svg.png" width="40" height="40"/></a>
+          <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/git/git-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -95,6 +96,13 @@
             <a href=""><img src="https://logowik.com/content/uploads/images/tableau-software.jpg" width="40" height="40"/></a>
         </td>
     </tr>
+  <tr>
+    <td>Orchestrator
+      <td>
+        <a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40"/></a>
+      </td>
+    </td>
+  </tr>
 </table>
 
 <br/>
