@@ -9,11 +9,11 @@
 
   DevSecOps Engineer Associate at SAIC            ---              <b>July 2025 - Present</b>
   <br>
-  •	
+  •	Obtained SecurityX CE Certification
   <br>
-  •	
+  •	Developing pipelines in Python and SQLAlchemy to handle and label data to specific needs
   <br>
-  •	
+  •	Developing tests on pipelines to ensure acceptance criteria
   <br>
 
   Software Engineer Intern at SAIC            ---              <b>May 2024 - May 2025</b>
