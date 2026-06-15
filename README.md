@@ -9,20 +9,31 @@
 
   DevSecOps Engineer Associate at SAIC            ---              <b>July 2025 - Present</b>
   <br>
-  •	Obtained SecurityX CE Certification
+  •	Earned SecurityX CE Certification
   <br>
-  •	Developing pipelines in Python and SQLAlchemy to handle and label data to specific needs
+  •	Developing Python and SQLAlchemy data pipelines to ingest, process, and label data supporting mission-critical DoD systems
   <br>
-  •	Developing tests on pipelines to ensure acceptance criteria
+  •	Migrated legacy Oracle-based pipelines to Python and PostgreSQL, modernizing the data layer for improved scalability and maintainability
   <br>
+  •	Building and maintaining unit test suites to validate pipeline integrity and ensure acceptance criteria are met
+  <br>
+  •	Leveraging AWS cloud infrastructure and REST API integrations for scalable data handling and automation
+  <br>
+  • Deploying and managing containerized workloads using Kubernetes and Docker, including cron job scheduling and pod orchestration
+  <br>
+  
 
   Software Engineer Intern at SAIC            ---              <b>May 2024 - May 2025</b>
   <br>
-  •	Developed an immutable database in SQLite to capture errors, changes, and more to increase operational efficiency.
+  •	Designed and implemented an immutable database in Third Normal Form (3NF) to improve workplace data integrity and operational efficiency
   <br>
-  •	Researched and debated over different forms of databases to understand and meet the project's needs.
+  •	Built a Flask web application to serve as the front-end interface for the immutable database
   <br>
-  •	Developing a website in Flask that follows proper procedures to view and insert data in the database.
+  •	Developed and deployed containerized web applications using Docker within an SDLC and MVP framework
+  <br>
+  •	Applied GraphQL on a cloud platform to support system migrations and handle large-scale data transfers
+  <br>
+  •	Worked within agile development workflows and applied Statistical Learning theory in a practical engineering environment
   <br>
 
   Intern at Milli Bank                  ---               <b>Jan 2024 - May 2024</b>
