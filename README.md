@@ -3,7 +3,7 @@
 - 📖 Creighton University Graduate, May 2025 with a BSBA in FinTech & BIA: IT Track (3-year accelerated)
 - 💼 DevSecOps Engineer Associate at SAIC, TADS
 - 🔍 Developing pipelines and cloud integration in an agile evnvironment
-- 📝 Currently learning Machine Learning, Quantum omputing, and and data oriented programing
+- 📝 Currently learning Machine Learning, Quantum computing, and and data oriented programing
 
   <h1>Work Experience:</h1> 
 
